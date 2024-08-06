@@ -80,9 +80,9 @@ A Streamlit web application is created to allow users to input feature values an
 
 ## Demo
 
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Demo 1](Demo 1.png)
+![Demo 2](Demo 2.png)
+![Demo 3](Demo 3.png)
 
 ## Conclusion
 
