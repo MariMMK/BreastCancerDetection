@@ -80,9 +80,9 @@ A Streamlit web application is created to allow users to input feature values an
 
 ## Demo
 
-![Demo 1](Demo 1.png)
-![Demo 2](Demo 2.png)
-![Demo 3](Demo 3.png)
+![Demo 1]([Demo1.png](https://github.com/MariMMK/BreastCancerDetection/blob/main/Demo1.png))
+![Demo 2]([Demo 2.png](https://github.com/MariMMK/BreastCancerDetection/blob/main/Demo2.png))
+![Demo 3]([Demo 3.png](https://github.com/MariMMK/BreastCancerDetection/blob/main/Demo3.png))
 
 ## Conclusion
 
