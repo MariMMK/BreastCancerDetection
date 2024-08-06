@@ -84,7 +84,5 @@ A Streamlit web application is created to allow users to input feature values an
 ![Demo 2](https://github.com/MariMMK/BreastCancerDetection/blob/main/Demo2.png)
 ![Demo 3](https://github.com/MariMMK/BreastCancerDetection/blob/main/Demo3.png)
 
-## Conclusion
 
-This project demonstrates the use of an Artificial Neural Network for predicting breast cancer, with a streamlined process for data preprocessing, feature selection, model tuning, training, and deployment using Streamlit.
 
